@@ -2053,7 +2053,7 @@ input, select, textarea {
 				border-radius: 0.35em;
 				border: solid 3px rgba(255, 255, 255, 1);
 				color: #fff;
-				content: 'View';
+				content: 'Visit Site';
 				display: inline-block;
 				font-size: 0.8em;
 				font-weight: 400;
@@ -2623,6 +2623,20 @@ input, select, textarea {
 			margin: 0 2em 1em 0;
 			width: 6.25em;
 		}
+	
+
+.skillIcons span {
+	font-size: 3.5em;
+	margin-right: 8%;
+	margin-bottom: 10%;
+
+}
+
+.skillIcons .iconify {
+	font-size: 3em;
+	color: #7649BC;
+}
+
 
 /* Footer */
 

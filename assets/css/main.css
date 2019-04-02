@@ -2745,6 +2745,10 @@ input, select, textarea {
 	color: #7649BC;
 }
 
+.my-email{
+	cursor: auto;
+}
+
 
 /* Footer */
 
